@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-  
+  <!--
 <h2>My GitHub Stats</h2>
 
   [![ema-barr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema-barr&show_icons=true&theme=radical&hide=contribs)](https://github.com/ema-barr/github-readme-stats)
@@ -10,7 +10,7 @@
   </div>
 
 
-<!--
+
 **ema-barr/ema-barr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
